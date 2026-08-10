@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30917413/README.md)
-# ChronoPulse 11.4
+# ChronoPulse
 
 **Precision Acoustic Watch Analysis**
 
