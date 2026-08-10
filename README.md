@@ -5,7 +5,7 @@
 
 ChronoPulse is a cross-platform desktop application for analyzing the acoustic timing behavior of mechanical watches. It can measure a live microphone signal, replay compatible WAV recordings, or generate repeatable simulator data through the same detector and analytics pipeline.
 
-Version 11.4 reports **Rate**, **Beat Error**, **Amplitude**, **BPH**, and **Lift Angle**, while providing confidence/trust states, multi-position watch records, sound-card timebase calibration, specialized analysis views, and auditable exports.
+Software reports **Rate**, **Beat Error**, **Amplitude**, **BPH**, and **Lift Angle**, while providing confidence/trust states, multi-position watch records, sound-card timebase calibration, specialized analysis views, and auditable exports.
 
 ## Highlights
 
